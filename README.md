@@ -23,7 +23,6 @@ A simple Python password generator that allows users to create strong, random pa
 
 ## Requirements
 - Python 3.x
-- IDE supporting Python (optional)
 
 ## Author
 Richard Fousek
