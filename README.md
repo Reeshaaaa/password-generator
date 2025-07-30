@@ -14,7 +14,7 @@ A simple Python password generator that allows users to create strong, random pa
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/password-generator.git
-   cd password-generator python main.py
+   cd password-generator
 2. **Run the script:**
    ```bash 
     python main.py
